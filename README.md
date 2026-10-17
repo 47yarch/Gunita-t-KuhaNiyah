@@ -352,7 +352,7 @@ Potential improvements for future versions include:
 
 **Agustin, Jeshaiah D.**
 
-- **Program:** BSIT (FULL)
+- **Program:** Bachelor of Science in Information Technology
 - **Year Level:** First Year
 - **Semester:** First Semester
 - **Institution:** Technological University of the Philippines – Taguig Campus
