@@ -70,41 +70,41 @@ The project demonstrates fundamental C++ programming concepts, including:
 
 ## 🖼️ Screenshots
 
-Screenshots are stored in the `docs/screenshot/` directory. The following images illustrate the application's main functions.
+Screenshots are stored in the `docs/screenshots/` directory. The following images illustrate the application's main functions.
 
 ### 1. Homepage
 
-![Homepage](docs/screenshot/homepage.png)
+![Homepage](docs/screenshots/homepage.png)
 
 ### 2. Product Catalog
 
-![Products](docs/screenshot/products.png)
+![Products](docs/screenshots/products.png)
 
 ### 3. Add to Cart
 
-![Add to Cart](docs/screenshot/add-to-cart.png)
+![Add to Cart](docs/screenshots/add-to-cart.png)
 
 ### 4. View Cart
 
-![View Cart](docs/screenshot/view-cart.png)
+![View Cart](docs/screenshots/view-cart.png)
 
 ### 5. Checkout — Order Summary
 
-![Checkout 1](docs/screenshot/check-out-1.png)
+![Checkout 1](docs/screenshots/check-out-1.png)
 
 ### 6. Checkout — Receipt
 
-![Checkout 2](docs/screenshot/checkout-2.png)
+![Checkout 2](docs/screenshots/checkout-2.png)
 
 ### 7. Admin Login
 
-![Admin Login](docs/screenshot/admin-login.png)
+![Admin Login](docs/screenshots/admin-login.png)
 
 ### 8. Admin Stock Management
 
-![Admin Stock](docs/screenshot/admin-stock.png)
+![Admin Stock](docs/screenshots/admin-stock.png)
 
-> **Note:** Ensure all eight image files exist in `docs/screenshot/`. GitHub displays the screenshots automatically when the file paths and filenames match. If an image is missing, GitHub will display a broken image link.
+> **Note:** Ensure all eight image files exist in `docs/screenshots/`. GitHub displays the screenshots automatically when the file paths and filenames match. If an image is missing, GitHub will display a broken image link.
 
 ---
 
